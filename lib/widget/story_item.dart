@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:insta_ui_01/colors.dart';
 
 class StoryItem extends StatelessWidget {

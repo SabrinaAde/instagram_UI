@@ -1,10 +1,6 @@
 
 //import 'dart:html';
-import 'dart:io';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/painting.dart';
-import 'package:flutter/rendering.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:insta_ui_01/post_json.dart';
 import 'package:insta_ui_01/story_json.dart';
